@@ -6,9 +6,7 @@
 
 ## 🚀 About Me
 
-I am a Full Stack Web Developer with over **13 years of experience** building web applications from planning and database design to deployment and maintenance. I enjoy creating SaaS platforms, business automation tools, APIs, dashboards, and AI-powered features that solve real-world problems.
-
-I have experience working across the full development lifecycle, including backend development, frontend development, cloud deployment, API integrations, and AI integrations.
+I’m a Full Stack Web Developer with 13+ years of experience building SaaS platforms, business applications, and APIs. I specialize in backend and frontend development, cloud deployment, AI integrations, and delivering scalable solutions from planning to production.
 
 ---
 
