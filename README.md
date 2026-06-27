@@ -8,6 +8,12 @@
 
 I’m a Full Stack Web Developer with 13+ years of experience building SaaS platforms, business applications, and APIs. I specialize in backend and frontend development, cloud deployment, AI integrations, and delivering scalable solutions from planning to production.
 
+## 🌐 Portfolio
+
+**Website**
+
+👉 https://dizonlabs.com
+
 ---
 
 ## 🛠 Tech Stack
@@ -158,14 +164,6 @@ Some of the AI features I have built include:
 - Advanced AI Workflows
 - System Design
 - Cloud Architecture
-
----
-
-## 🌐 Portfolio
-
-**Website**
-
-👉 https://dizonlabs.com
 
 ---
 
