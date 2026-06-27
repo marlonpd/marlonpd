@@ -2,12 +2,6 @@
 
 ## Full Stack Web Developer
 
-I build scalable web applications, SaaS platforms, workflow automation systems, REST APIs, AI-powered features, and business solutions.
-
-**My primary stacks are Laravel, PHP, Vue.js, Node.js, MySQL, TypeScript, React, and cloud platforms such as AWS and DigitalOcean.**
-
-📍 Davao City, Philippines
-
 ---
 
 ## 🚀 About Me
@@ -16,6 +10,7 @@ I am a Full Stack Web Developer with over **13 years of experience** building we
 
 I have experience working across the full development lifecycle, including backend development, frontend development, cloud deployment, API integrations, and AI integrations.
 
+**My primary stacks are Laravel, PHP, Vue.js, Node.js, MySQL, TypeScript, React, and cloud platforms such as AWS and DigitalOcean.**
 ---
 
 ## 🛠 Tech Stack
